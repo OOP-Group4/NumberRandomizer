@@ -67,7 +67,7 @@ Ensure you have the following installed:
 1. **Clone the repository:**
    ```
    git clone https://github.com/OOP-Group4/NumberRandomizer.git
-   cd OOP_RANDOMIZER
+   cd OOP_Randomizer
     ```
 2. **Install the required dependencies:**
    ```
